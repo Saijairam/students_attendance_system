@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width:100%;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 15px;
+    padding:10px 0;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form .sub-form{
+    display: flex;
+    flex-direction: column;
+    margin:10px; 
+}
+
+.sub-form label{
+    text-align: center;
+    font-size: 18px;
+}
+
+.sub-form input{
+    padding:5px;  
+    border-radius: 10px;
+}
+
+.submit{
+    padding:10px 20px;
+    border:none;
+    border-radius: 10px;
+    background-color: rgb(16, 219, 16);
+    cursor:pointer;
+}
+
+.output{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.sub-output{
+    width:100%;
+    margin:10px 0;
+    padding:5px 0;
+}
+
+.sub-output span{
+   font-size: 18px;
+   font-weight: 600;
+}
+
+.present{
+    text-align:center;
+    margin:20px 10px;
+}
+
+.present button{
+    padding:5px 15px;
+    background-color: lightgreen;
+    border:none;
+    border-radius:20px;
+    cursor:pointer;
+}
+

@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Saijairam",
+      "roll": "20065118",
+      "timein": "16:50",
+      "timeout": "19:50"
+    },
+    {
+      "id": 2,
+      "name": "Yamuna",
+      "roll": "20065115",
+      "timein": "15:20",
+      "timeout": "18:20"
+    },
+    {
+      "name": "Mounica",
+      "roll": "20065118",
+      "timein": "21:50",
+      "timeout": "23:52",
+      "id": 3
+    },
+    {
+      "name": "Meghana",
+      "roll": "20065478",
+      "timein": "20:08",
+      "timeout": "21:10",
+      "id": 4
+    },
+    {
+      "name": "Madhu",
+      "roll": "20065148",
+      "timein": "16:07",
+      "timeout": "18:10",
+      "id": 5
+    },
+    {
+      "name": "Rashmi",
+      "roll": "20065147",
+      "timein": "12:22",
+      "timeout": "17:24",
+      "id": 6
+    }
+  ]
+}
